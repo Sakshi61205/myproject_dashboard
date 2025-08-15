@@ -1,0 +1,50 @@
+
+    html,body{
+        height:100%;
+        width: 100%;
+    }
+.button{
+    padding:20px;
+    margin:0 3px;
+    border:3px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+}
+.row{
+    margin:8px 0;
+}
+.row input {
+    margin: 0;
+    padding:10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-sizing:border-box;
+    font-size: 20px;
+    background-color:rgb(60, 218, 239) ;
+}
+.center-row {
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-image: url(https://www.shutterstock.com/image-illustration/mathematical-symbols-on-constant-background-260nw-1559214962.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.text-align {
+    text-align: center;
+font-family: fancy 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri;
+    font-size: xx-large;
+    padding: 1;
+    margin: auto;
+    
+}
+.text-align {
+    color: rgb(234, 239, 241);
+}
+.button{
+    background-color:rgb(64, 202, 240);
+}
+
+
